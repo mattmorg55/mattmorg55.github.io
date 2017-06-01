@@ -6,7 +6,7 @@ categories: bigo
 ---
 "A solid understanding of computational complexity theory (e.g. big O notation) is essential to design scalable algorithms, applications and systems. Since scalability is highly relevant to computing in industry, big O notation is too."
 
-https://softwareengineering.stackexchange.com/questions/20832/is-big-o-really-that-relevant-when-working-in-industry
+<https://softwareengineering.stackexchange.com/questions/20832/is-big-o-really-that-relevant-when-working-in-industry>
 
 "Big O notation is used in Computer Science to describe the performance or complexity of an algorithm. Big O specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used (e.g. in memory or on disk) by an algorithm."
 
