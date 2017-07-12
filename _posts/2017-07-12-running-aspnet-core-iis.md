@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some Links on Big-O Notation"
+title:  "Publishing and Running ASP.NET Core Applications with IIS"
 date:   2017-07-12 08:00:00 -0400
 categories: bigo
 ---
