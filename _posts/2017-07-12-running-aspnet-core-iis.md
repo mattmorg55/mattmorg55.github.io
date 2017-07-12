@@ -2,7 +2,7 @@
 layout: post
 title:  "Publishing and Running ASP.NET Core Applications with IIS"
 date:   2017-07-12 08:00:00 -0400
-categories: bigo
+categories: aspnetcore iis
 ---
 "The most important thing to understand about hosting ASP.NET Core is that it runs as a standalone, out of process Console application. It's not hosted inside of IIS and it doesn't need IIS to run. ASP.NET Core applications have their own self-hosted Web server and process requests internally using this self-hosted server instance."
 
